@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Melanie!
+### 👋 Hi, I'm Melanie
 
 I'm a data scientist at BuzzFeed. I'm currently doing an engineering residency with our data engineering team to learn more about ML ops/engineering. I've also worked closely with our apps team.
 
