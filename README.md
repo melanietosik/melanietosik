@@ -1,16 +1,29 @@
-### Hi there 👋
+### 👋 Hi, I'm Melanie!
 
-<!--
-**melanietosik/melanietosik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data scientist at BuzzFeed. I'm currently doing an engineering residency with our data engineering team to learn more about ML ops/engineering. I've also worked closely with our apps team.
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/melanietosik/melanietosik.github.io/master/files/38.png">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏛 History
+
+#### 👩‍💻 Experience
+
+I've worked in data science for two years. Before moving to New York I worked at a travel AI startup in Austin, where I was one of two NLP engineers. I had a brief stint consulting at Underdog.io as well (+ some previous internships in recruiting).
+
+#### 👩🏻‍🎓 Education
+
+I got my MS in computer science from NYU. In undergrad I studied NLP at the University of Potsdam (near Berlin).
+
+### 📚 Resume
+
+Perpetually outdated but hanging in there, [here it is](https://www.melanietosik.com/files/tosik_resume_may_2020.pdf) (last update: May 2020).
+
+### ⁉️ FAQ
+
+- **Q:** Can you help me become a data scientist? **A:** Possibly! I'm happy to answer specific questions, but it's very, very difficult to give generic career advice in this field. I picked up a new book called "Build a Career in Data Science" earlier this year and it's an incredible resource, so I'd recommend you start there.
+- **Q:** Favorite books? Currently reading? **Q:** All time favorites: _The Book Thief_ and _When Breath Becomes Air_. Currently reading: _A New Earth_.
+- **Q:** What is that accent? **Q:** It's German. One day I'm going to hire a voice coach to help me iron out my R's.
+
+### Contact
+
+`first.last@mostcommonmail.com`
