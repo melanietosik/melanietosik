@@ -10,7 +10,7 @@ I'm a data scientist at BuzzFeed. I'm currently doing an engineering residency w
 
 I've worked in data science for two years. Before moving to New York I worked at a travel AI startup in Austin, where I was one of two NLP engineers. I had a brief stint consulting at Underdog.io as well (+ some previous internships in recruiting).
 
-#### 👩🏻‍🎓 Education
+#### 👩‍🎓 Education
 
 I got my MS in computer science from NYU. In undergrad I studied NLP at the University of Potsdam (near Berlin).
 
@@ -21,7 +21,7 @@ Perpetually outdated but hanging in there, [here it is](https://www.melanietosik
 ### ⁉️ FAQ
 
 - **Q:** Can you help me become a data scientist? **A:** Maybe! I'm happy to answer specific questions, but it's very, very difficult to give generic career advice in this field. I picked up a new book called _Build a Career in Data Science_ earlier this year and it's an incredible resource, so I'd recommend you start there.
-- **Q:** Book recommendations? **Q:** All time favorites: _The Book Thief_ and _When Breath Becomes Air_. Currently reading: _A New Earth_.
+- **Q:** Book recs? **Q:** All time favorites: _The Book Thief_ and _When Breath Becomes Air_. Currently reading: _A New Earth_.
 - **Q:** What is that accent? **Q:** It's German. One day I'm going to hire a voice coach to help me iron out my R's.
 
 ### Contact
