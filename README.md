@@ -29,7 +29,7 @@ Perpetually outdated but hanging in there, [here it is](https://www.melanietosik
 
 ### ⁉️ FAQ
 
-- **Q:** Can you help me become a data scientist? **A:** Maybe! I'm happy to answer specific questions, but it's very, very difficult to give generic career advice in this field. I picked up a new book called _Build a Career in Data Science_ by Emily Robinson and Jacqueline Nolis earlier this year and it's a great resource, so I'd recommend you start there.
+- **Q:** Can you help me become a data scientist? **A:** Maybe! I'm happy to answer specific questions, but it's very, very difficult to give generic career advice in this field. I picked up a new book called _Build a Career in Data Science_ by Emily Robinson and Jacqueline Nolis last year and it's a great resource, so I'd recommend you start there.
 - **Q:** Book recs? **A:** All time favorites: _The Book Thief_ and _When Breath Becomes Air_. Currently reading: _The Impossible City_ by Karen Cheung and _The Sandman_ graphic novels by Neil Gaiman.
 - **Q:** What is that accent? **A:** It's German. One day I'm going to hire a voice coach to help me iron out my R's.
 
