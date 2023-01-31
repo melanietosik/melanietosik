@@ -1,13 +1,13 @@
 ### 👋 Hi, I'm Melanie
 
-I'm a data lead, manager, and senior data scientist based in Brooklyn, NY.
+I'm a data lead, manager, and staff data scientist based in Brooklyn, NY.
 
 I'm currently at BuzzFeed where I've worked on a bunch of different teams and projects now, most notably:
 
 - **Apps**: improved our feed ranking algorithms
 - **Infra**: designed a new API to generate article embeddings in real-time and improve load time for related content recommendations
 - **Commerce**: built an entirely new system to store and retrieve similar products based on image embeddings
-- **AdTech**: actively working on improved audience segmentation and targeting to drive more effective ad campaigns
+- **RevTech**: actively working on improved audience segmentation and targeting to drive more effective ad campaigns
 
 Here's what a typical workday looks like for me:
 
