@@ -4,10 +4,11 @@ I'm a data lead, manager, and staff data scientist based in Brooklyn, NY.
 
 I'm currently at BuzzFeed where I've worked on a bunch of different teams and projects now, most notably:
 
-- **Apps**: improved our feed ranking algorithms
+- **Apps**: improved our personalization models and feed ranking algorithms
 - **Infra**: designed a new API to generate article embeddings in real-time and improve load time for related content recommendations
 - **Commerce**: built an entirely new system to store and retrieve similar products based on image embeddings
 - **RevTech**: actively working on improved audience segmentation and targeting to drive more effective ad campaigns
+- **GenAI**: launched a number of first-to-market ChatGPT plug-ins and chatbots that are live on our site
 
 Here's what a typical workday looks like for me:
 
@@ -17,7 +18,7 @@ Here's what a typical workday looks like for me:
 
 #### 👩‍💻 Experience
 
-I've been at BuzzFeed for 3 years (plus an internship the year prior to joining full-time). Before moving to New York I worked at a travel AI startup in Austin, where I was part of a small team of NLP researchers and engineers. I had a brief stint consulting at Underdog.io as well, and some previous internships in recruiting.
+I've been at BuzzFeed for 4 years (plus an internship the year prior to joining full-time). Before moving to New York I worked at a travel AI startup in Austin, where I was part of a small team of NLP researchers and engineers. I had a brief stint consulting at Underdog.io as well, and some previous internships in recruiting.
 
 #### 👩‍🎓 Education
 
@@ -25,7 +26,7 @@ I got my MS in computer science from NYU. For my undergrad I studied NLP at the 
 
 ### 📚 Resume
 
-Perpetually outdated but hanging in there, [here it is](https://www.melanietosik.com/files/tosik_resume_august_2022.pdf) (last update: August 2022).
+Perpetually outdated but hanging in there, [here it is](https://www.melanietosik.com/files/tosik_resume_january_2024.pdf) (last update: January 2024).
 
 ### ⁉️ FAQ
 
