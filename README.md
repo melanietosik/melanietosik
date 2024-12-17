@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Melanie
 
-I'm a data scientist/ML engineer based in New York.
+I'm an experienced data scientist / ML engineer based in New York.
 
 I currently work on building personalized ranking and recommendation systems at Grubhub.
 
