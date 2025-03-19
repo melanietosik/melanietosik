@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Melanie
 
-I'm an experienced data scientist / ML engineer based in New York.
+I'm an experienced data scientist / ML engineer based in Queens, New York.
 
 I currently work on building personalized ranking and recommendation systems at Grubhub.
 
@@ -16,7 +16,7 @@ I joined Grubhub in September 2024. Previously, I spent 5 years at BuzzFeed, whe
 
 #### 👩‍🎓 Education
 
-I got my MS in Computer Ccience from NYU. For my undergrad I studied NLP at the University of Potsdam (near Berlin).
+I got my MS in Computer Science from NYU. For my undergrad I studied NLP at the University of Potsdam (near Berlin).
 
 ### 📚 Resume
 
